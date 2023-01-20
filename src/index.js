@@ -6,7 +6,7 @@ const EasyModal = (props) => {
   return (
     <div
       className="easy-modal-main"
-      style={{ display: props.open ? "block" : "none" }}
+      style={{ display: props.open ? "flex" : "none" }}
     >
       <ModalBox data={props.body} close={props.onClose} />
     </div>
