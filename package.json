@@ -1,6 +1,6 @@
 {
   "name": "easy-modal-dialog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This modal is designed to fit according to the parent component's size, providing a seamless user experience.",
   "main": "./build/index.js",
   "scripts": {
