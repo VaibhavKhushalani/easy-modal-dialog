@@ -42,11 +42,14 @@ This modal has been tested and is compatible with the latest versions of Chrome,
 
 ### About Author
 
+<div style="width:50px">
 <span style="margin-right: 50px;"></span><a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" ></a>
-<span style="margint:0 30px;"></span><a href="https://github.com/VaibhavKhushalani"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" ></a></p>
 
+<span style="margint:0 30px;"></span><a href="https://github.com/VaibhavKhushalani"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" ></a>
+
+</div>
 ### Official NPM Package
 
 <span style="margint:0 30px;"></span><a href="https://www.npmjs.com/package/easy-modal-dialog">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  />
-</a></p>
+</a>
