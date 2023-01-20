@@ -14,7 +14,7 @@ npm i easy-modal-dialog
 import React, { useState } from "react";
 import EasyModal from "easy-modal-dialog";
 function App() {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
   const handleClose = () => setOpen(false);
   const Body = (
     <>
