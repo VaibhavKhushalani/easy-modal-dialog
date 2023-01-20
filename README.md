@@ -18,6 +18,7 @@ function App() {
   const handleClose = () => setOpen(false);
   const Body = (
     <>
+
       <h5>I am a Modal which can wrap over any Element</h5>
     </>
   );
