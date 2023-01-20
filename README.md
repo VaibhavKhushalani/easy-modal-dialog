@@ -4,15 +4,15 @@ This modal is designed to fit according to the parent component's size, providin
 
 ## Installation
 
-```
+```bash
 npm i easy-modal-dialog
 ```
 
 ## Usage
 
-```
+```jsx static
 import React, { useState } from "react";
-import EasyModal from "./EasyModal";
+import EasyModal from "easy-modal-dialog";
 function App() {
   const [open, setOpen] = useState(true);
   const handleClose = () => setOpen(false);
