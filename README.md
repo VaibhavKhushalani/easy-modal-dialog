@@ -42,11 +42,11 @@ This modal has been tested and is compatible with the latest versions of Chrome,
 
 ### About Author
 
-<span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a>
-<span style="margint:0 30px;"></span><a href="https://github.com/VaibhavKhushalani"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+<span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 30px;"></a>
+<span style="margint:0 30px;"></span><a href="https://github.com/VaibhavKhushalani"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 30px;"></a></p>
 
 ### Official NPM Package
 
 <span style="margint:0 30px;"></span><a href="https://www.npmjs.com/package/easy-modal-dialog">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="width: 10%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="width: 30px;" />
 </a></p>
