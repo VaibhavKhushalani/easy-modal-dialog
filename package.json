@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/VaibhavKhushalani/easy-modal-dialog"
   },
+  "homepage": "https://github.com/VaibhavKhushalani/easy-modal-dialog",
   "scripts": {
     "build": "webpack"
   },
